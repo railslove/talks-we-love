@@ -1,5 +1,5 @@
 Talks We Love
 =============
 
-+ 2015-02-02: WAITING FOR YOUR SUGGESTION!
++ 2015-02-02: "Programmer Anarchy". [Fred George](https://twitter.com/fgeorge52). ~1h. [Video/Slides](http://www.infoq.com/presentations/Leaner-Programmer-Anarchy)
 + 2015-01-26: "Hammock-driven development". Rich Hickey. Clojure/Conj 2010. 40min. [Video](https://www.youtube.com/watch?v=f84n5oFoZBc). [Notes](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md).
