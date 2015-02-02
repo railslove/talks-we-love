@@ -1,5 +1,5 @@
 Talks We Love
 =============
 
-+ 2015-02-02: ["Implementing Programmer Anarchy"](https://www.youtube.com/watch?v=tIxHmsWCd7g). [Fred George](https://twitter.com/fgeorge52). GOTO Conferences. 40min. [Slides](http://www.slideshare.net/fredgeorge/implementing-programmer-anarchy).
++ 2015-02-02: ["Implementing Programmer Anarchy"](https://www.youtube.com/watch?v=tIxHmsWCd7g). [Fred George](https://twitter.com/fgeorge52). GOTO Conferences 2014. 40min. [Slides](http://www.slideshare.net/fredgeorge/implementing-programmer-anarchy).
 + 2015-01-26: ["Hammock-Driven Development"](https://www.youtube.com/watch?v=f84n5oFoZBc). [Rich Hickey](https://twitter.com/richhickey). Clojure/Conj 2010. 40min. [Notes](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md).
