@@ -9,3 +9,7 @@ Pool of future talk ideas
 =========================
 
 * ["GSS - Layouts Not Possible with Tomorrow's CSS"](http://vimeo.com/91393694) Dan Tocchini, Fluent 2014
+* ["Fuck You. Pay Me."](http://vimeo.com/22053820) - Mike Monteiro, 2011, 40min. [Notes](https://github.com/daryllxd/lifelong-learning/blob/master/design/mike-monteiro-pay-me.md)
+* ["Clojure: Programming with Hand Tools"](https://www.youtube.com/watch?v=ShEez0JkOFw) - Tim Ewald, 2013, 60min  
+"For most of human history, furniture was built by hand using a small set of simple tools. This approach connects you in a profoundly direct way to the work, your effort to the result. This changed with the rise of machine tools, which made production more efficient but also altered what's made and how we think about making it in in a profound way. This talk explores the effects of automation on our work, which is as relevant to software as it is to furniture, especially now that once again, with Clojure, we are building things using a small set of simple tools."
+* ["Terms and Conditions May Apply"](http://www.imdb.com/title/tt2084953/?ref_=fn_al_tt_4) (documentary), Cullen Hoback, 2013, 80min
