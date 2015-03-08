@@ -1,6 +1,11 @@
-Talks We Love
-=============
+TW💚 - Talks We Love
+====================
+Every Monday during lunch break (13:00 ) we watch a recorded talk at [the Railslove office](https://goo.gl/maps/biHOj).  
+Feel free to drop by and join us! And if you want to stick around, we have a coworking space neighbouring our office: [Coworking Cologne](http://coworkingcologne.de).
 
+Talks
+-----
++ to propose a talk please make a pull request.
 + 2015-03-09: ["The challenges and benefits of a functional reactive frontend"](https://www.youtube.com/watch?v=TihhFQjtiZU) &ndash; [Ian Davis](https://twitter.com/jungziege). Strange Loop 2014. 38min.
 + 2015-03-02: ["Designing for Startups"](https://www.youtube.com/watch?v=OpqybH1w4uI) &ndash; [Braden Kowitz](https://twitter.com/kowitz). 30min.
 + 2015-02-23: ["Digital Feudalism and How to Avoid It"](https://vimeo.com/77257232) &ndash; [Aral Balkan](https://aralbalkan.com). 2013 Realtime Conf. 46min.
@@ -9,10 +14,10 @@ Talks We Love
 + 2015-01-26: ["Hammock-Driven Development"](https://www.youtube.com/watch?v=f84n5oFoZBc) &ndash; [Rich Hickey](https://twitter.com/richhickey). Clojure/Conj 2010. 40min. [Notes](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md).
 
 Pool of future talk ideas
-=========================
-
-* ["GSS - Layouts Not Possible with Tomorrow's CSS"](http://vimeo.com/91393694) Dan Tocchini, Fluent 2014
+-------------------------
+If there are no pull requests with talk proposals we'll grab one from here - feel free to add stuff to this list via pull requests as well.
+* ["GSS - Layouts Not Possible with Tomorrow's CSS"](http://vimeo.com/91393694) Dan Tocchini, Fluent 2014.
 * ["Fuck You. Pay Me."](http://vimeo.com/22053820) - Mike Monteiro, 2011, 40min. [Notes](https://github.com/daryllxd/lifelong-learning/blob/master/design/mike-monteiro-pay-me.md)
-* ["Clojure: Programming with Hand Tools"](https://www.youtube.com/watch?v=ShEez0JkOFw) - Tim Ewald, 2013, 60min  
+* ["Clojure: Programming with Hand Tools"](https://www.youtube.com/watch?v=ShEez0JkOFw) - Tim Ewald, 2013, 60min.  
 "For most of human history, furniture was built by hand using a small set of simple tools. This approach connects you in a profoundly direct way to the work, your effort to the result. This changed with the rise of machine tools, which made production more efficient but also altered what's made and how we think about making it in in a profound way. This talk explores the effects of automation on our work, which is as relevant to software as it is to furniture, especially now that once again, with Clojure, we are building things using a small set of simple tools."
-* ["Terms and Conditions May Apply"](http://www.imdb.com/title/tt2084953/?ref_=fn_al_tt_4) (documentary), Cullen Hoback, 2013, 80min
+* ["Terms and Conditions May Apply"](http://www.imdb.com/title/tt2084953/?ref_=fn_al_tt_4) (documentary), Cullen Hoback, 2013, 80min.
