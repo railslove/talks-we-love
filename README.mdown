@@ -7,6 +7,7 @@ Talks
 -----
 To propose a talk please make a [pull request](https://github.com/railslove/talks-we-love/pulls).
 
++ 2015-03-16: ["Step Off This Hurtling Machine"](https://www.youtube.com/watch?v=T_5dpw5dRNY) &ndash; Alex Feyerke. JSConf.au 2014. 50min.
 + 2015-03-09: ["The challenges and benefits of a functional reactive frontend"](https://www.youtube.com/watch?v=TihhFQjtiZU) &ndash; [Ian Davis](https://twitter.com/jungziege). Strange Loop 2014. 38min.
 + 2015-03-02: ["Designing for Startups"](https://www.youtube.com/watch?v=OpqybH1w4uI) &ndash; [Braden Kowitz](https://twitter.com/kowitz). 30min.
 + 2015-02-23: ["Digital Feudalism and How to Avoid It"](https://vimeo.com/77257232) &ndash; [Aral Balkan](https://aralbalkan.com). 2013 Realtime Conf. 46min.
