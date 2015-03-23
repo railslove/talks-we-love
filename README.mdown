@@ -7,6 +7,7 @@ Talks
 -----
 To propose a talk please make a [pull request](https://github.com/railslove/talks-we-love/pulls).
 
++ 2015-03-23: ["Fuck You. Pay Me."](http://vimeo.com/22053820) &ndash; Mike Monteiro. 2011, 40min. [Notes](https://github.com/daryllxd/lifelong-learning/blob/master/design/mike-monteiro-pay-me.md).
 + 2015-03-16: ["Step Off This Hurtling Machine"](https://www.youtube.com/watch?v=T_5dpw5dRNY) &ndash; Alex Feyerke. JSConf.au 2014. 50min.
 + 2015-03-09: ["The challenges and benefits of a functional reactive frontend"](https://www.youtube.com/watch?v=TihhFQjtiZU) &ndash; [Ian Davis](https://twitter.com/jungziege). Strange Loop 2014. 38min.
 + 2015-03-02: ["Designing for Startups"](https://www.youtube.com/watch?v=OpqybH1w4uI) &ndash; [Braden Kowitz](https://twitter.com/kowitz). 30min.
@@ -19,7 +20,6 @@ Pool of future talk ideas
 -------------------------
 If there are no pull requests with talk proposals we'll grab one from here - feel free to add stuff to this list via pull requests as well.
 * ["GSS - Layouts Not Possible with Tomorrow's CSS"](http://vimeo.com/91393694) Dan Tocchini, Fluent 2014.
-* ["Fuck You. Pay Me."](http://vimeo.com/22053820) - Mike Monteiro, 2011, 40min. [Notes](https://github.com/daryllxd/lifelong-learning/blob/master/design/mike-monteiro-pay-me.md)
 * ["Clojure: Programming with Hand Tools"](https://www.youtube.com/watch?v=ShEez0JkOFw) - Tim Ewald, 2013, 60min.  
 "For most of human history, furniture was built by hand using a small set of simple tools. This approach connects you in a profoundly direct way to the work, your effort to the result. This changed with the rise of machine tools, which made production more efficient but also altered what's made and how we think about making it in in a profound way. This talk explores the effects of automation on our work, which is as relevant to software as it is to furniture, especially now that once again, with Clojure, we are building things using a small set of simple tools."
 * ["Terms and Conditions May Apply"](http://www.imdb.com/title/tt2084953/?ref_=fn_al_tt_4) (documentary), Cullen Hoback, 2013, 80min.
