@@ -7,6 +7,7 @@ Talks
 -----
 To propose a talk please make a [pull request](https://github.com/railslove/talks-we-love/pulls).
 
++ 2015-03-30: ["Humane Development"](http://confreaks.tv/videos/roa2015-humane-development) &ndash; Ernie Miller. Ruby On Ales 2015, 44min. 
 + 2015-03-23: ["Fuck You. Pay Me."](http://vimeo.com/22053820) &ndash; Mike Monteiro. 2011, 40min. [Notes](https://github.com/daryllxd/lifelong-learning/blob/master/design/mike-monteiro-pay-me.md).
 + 2015-03-16: ["Step Off This Hurtling Machine"](https://www.youtube.com/watch?v=T_5dpw5dRNY) &ndash; Alex Feyerke. JSConf.au 2014. 50min.
 + 2015-03-09: ["The challenges and benefits of a functional reactive frontend"](https://www.youtube.com/watch?v=TihhFQjtiZU) &ndash; [Ian Davis](https://twitter.com/jungziege). Strange Loop 2014. 38min.
