@@ -7,6 +7,7 @@ Talks
 -----
 To propose a talk please make a [pull request](https://github.com/railslove/talks-we-love/pulls).
 
++ 2015-06-01: ["The Future Doesn't Have to Be Incremental"](https://www.youtube.com/watch?v=gTAghAJcO1o) &ndash; Alan Kay. DEMO Conf 2014. 43min.
 + 2015-04-07: ["Building the minimum Badass User. Part two"](https://vimeo.com/81625882) &ndash; Kathy Sierra. Business of Software 2013, 60min.
 + 2015-03-30: ["Humane Development"](http://confreaks.tv/videos/roa2015-humane-development) &ndash; Ernie Miller. Ruby On Ales 2015, 44min. 
 + 2015-03-23: ["Fuck You. Pay Me."](http://vimeo.com/22053820) &ndash; Mike Monteiro. 2011, 40min. [Notes](https://github.com/daryllxd/lifelong-learning/blob/master/design/mike-monteiro-pay-me.md).
@@ -17,7 +18,6 @@ To propose a talk please make a [pull request](https://github.com/railslove/talk
 + 2015-02-09: ["I Love Logging"](https://www.youtube.com/watch?v=KhDxKOuS5Kw) &ndash; [Jens Kühnel](http://www.jekkt.com). FrOSCon 2014. 36min (without Q&A).
 + 2015-02-02: ["Implementing Programmer Anarchy"](https://www.youtube.com/watch?v=tIxHmsWCd7g) &ndash; [Fred George](https://twitter.com/fgeorge52). GOTO Conferences 2014. 40min. [Slides](http://www.slideshare.net/fredgeorge/implementing-programmer-anarchy).
 + 2015-01-26: ["Hammock-Driven Development"](https://www.youtube.com/watch?v=f84n5oFoZBc) &ndash; [Rich Hickey](https://twitter.com/richhickey). Clojure/Conj 2010. 40min. [Notes](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md).
-
 
 Pool of future talk ideas
 -------------------------
