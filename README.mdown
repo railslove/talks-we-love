@@ -7,6 +7,7 @@ Talks
 -----
 To propose a talk please make a [pull request](https://github.com/railslove/talks-we-love/pulls).
 
++ 2015-06-15: ["The Soul of Software"](https://www.youtube.com/watch?v=IgbHzFb1hGw) &ndash; [Avdi Grimm](https://twitter.com/avdi). Tropical Ruby 2015. 46min.
 + 2015-06-01: ["The Future Doesn't Have to Be Incremental"](https://www.youtube.com/watch?v=gTAghAJcO1o) &ndash; Alan Kay. DEMO Conf 2014. 43min.
 + 2015-04-07: ["Building the minimum Badass User. Part two"](https://vimeo.com/81625882) &ndash; Kathy Sierra. Business of Software 2013, 60min.
 + 2015-03-30: ["Humane Development"](http://confreaks.tv/videos/roa2015-humane-development) &ndash; Ernie Miller. Ruby On Ales 2015, 44min. 
