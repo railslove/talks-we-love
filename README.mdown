@@ -7,7 +7,7 @@ Talks
 -----
 To propose a talk please make a [pull request](https://github.com/railslove/talks-we-love/pulls).
 
-
++ 2015-09-07: ["Software Architecture vs Code"](https://www.youtube.com/watch?v=ehH3UGdSwPo) &ndash; [Simon Brown](http://www.simonbrown.je/)
 + 2015-07-27: ["Web Design: The First Hundred Years"](https://www.youtube.com/watch?v=nwhZ3KEqUlw) &ndash; [Maciej Ceglowski](https://twitter.com/baconmeteor). HOW Interactive Design Conference. 41min.
 + 2015-06-15: ["The Soul of Software"](https://www.youtube.com/watch?v=IgbHzFb1hGw) &ndash; [Avdi Grimm](https://twitter.com/avdi). Tropical Ruby 2015. 46min.
 + 2015-06-01: ["The Future Doesn't Have to Be Incremental"](https://www.youtube.com/watch?v=gTAghAJcO1o) &ndash; Alan Kay. DEMO Conf 2014. 43min.
